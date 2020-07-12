@@ -1,4 +1,4 @@
-## Hi, my name is Karl.
+## 👋 Hi, my name is Karl.
 
 I [write](https://www.karllhughes.com/writing/), [speak](https://www.karllhughes.com/speaking/), and [help build startups](https://www.karllhughes.com/work/). After 8 years working for early-stage startups in Chicago, I founded **[Draft](http://draft.dev/)** where I help software engineering blogs create high-quality technical content.
 
