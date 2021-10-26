@@ -4,6 +4,6 @@ I [write](https://www.karllhughes.com/writing/), [speak](https://www.karllhughes
 
 On the side, I run **[CFP Land](https://www.cfpland.com/)**, an automated newsletter that goes out to 2,000+ technology conference speakers every week.
 
-I also have a [personal blog](https://www.karllhughes.com/) and I send out a weekly newsletter on startups, technology, and leadership called **[The Portable CTO](https://mailchi.mp/a183cf10b418/startups)**.
+I also have a [personal blog](https://www.karllhughes.com/) and I send out a weekly newsletter on startups, technology, and leadership [that you can find here](https://karllhughes.curated.co/).
 
 📖 Thanks for reading!
